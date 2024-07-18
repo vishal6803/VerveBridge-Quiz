@@ -1,0 +1,1 @@
+https://quizapi.io/api/v1/questions?apiKey=uRKzEReYWHyreyFSMgIMnTFL9wj2cZW9ETwB9ZZV&category=linux&difficulty=Medium&limit=18
