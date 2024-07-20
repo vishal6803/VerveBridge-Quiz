@@ -15,6 +15,7 @@ function Signup() {
     e.preventDefault();
     const user = localStorage.setItem("user", JSON.stringify(userData));
     console.log(user);
+    alert("Sucessfully Sign up");
   }
   return (
     <div>
